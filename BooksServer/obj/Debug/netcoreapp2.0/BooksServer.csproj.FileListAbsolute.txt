@@ -1,0 +1,11 @@
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\bin\Debug\netcoreapp2.0\BooksServer.deps.json
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\bin\Debug\netcoreapp2.0\BooksServer.runtimeconfig.json
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\bin\Debug\netcoreapp2.0\BooksServer.runtimeconfig.dev.json
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\bin\Debug\netcoreapp2.0\BooksServer.dll
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.csproj.CoreCompileInputs.cache
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.AssemblyInfoInputs.cache
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.AssemblyInfo.cs
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\bin\Debug\netcoreapp2.0\BooksServer.pdb
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.dll
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.pdb
+c:\users\ליאור לרנר\Source\Repos\BooksServer\BooksServer\obj\Debug\netcoreapp2.0\BooksServer.csprojResolveAssemblyReference.cache
